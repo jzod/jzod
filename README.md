@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jzod
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning Yolov5
+- 📫 How to reach me: mjfutures@gmail.com
